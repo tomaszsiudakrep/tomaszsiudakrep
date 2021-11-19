@@ -19,13 +19,12 @@ Skills 🧠
 - MS SQL Server / MySQL Workbench
 - GIT
 - Intellij IDEA
-- Postman / SoapUI
+- Postman
 - Jenkins
 
 Find me around the web 🌍
 - <a href="https://www.linkedin.com/in/tomasz-siudak-339103139/">LinkedIn</a> 
 - <a href="mailto:tomaszsiudak00@gmail.com">E-mail</a>
-- <a href="https://www.instagram.com/gibon00/">Instagram</a>
 
 
 <!--
