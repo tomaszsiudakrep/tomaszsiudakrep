@@ -10,16 +10,18 @@ I’m currently learning 🌱
 - Rest api
 
 Skills 🧠
-- Java 11 / Spring Basic / Hibernate Basic
+- Java 11 / JavaFX / Spring Basic / Hibernate Basic
+- HTML & CSS Basic
 - JUnit / Mockito
+- Postman
 - TDD / CI/CD
-- ISTQB
-- JIRA / TestLink
+- ISTQB Foundation Level
+- JIRA / Confluence
+- TestLink
 - Gradle / Maven
 - MS SQL Server / MySQL Workbench
 - GIT
 - Intellij IDEA
-- Postman
 - Jenkins
 
 Find me around the web 🌍
