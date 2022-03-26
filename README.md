@@ -2,7 +2,7 @@
 I'm Tom and programming is my passion. I like to spend my time in front of the code.
 
 I’m currently working on 🔭
-- web application that allows you to store recipes and products from our refrigerator. Then the application will tell you what you can prepare from the given ingredients.
+https://github.com/tomaszsiudakrep/FridgeWebApp
 
 I’m currently learning 🌱 
 - Spring
