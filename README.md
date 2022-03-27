@@ -5,12 +5,11 @@ I’m currently working on 🔭
 https://github.com/tomaszsiudakrep/FridgeWebApp
 
 I’m currently learning 🌱 
-- Spring
 - Spring boot
 - Rest api
 
 Skills 🧠
-- Java 11 / JavaFX / Spring Basic / Hibernate Basic
+- Java 11 / JavaFX / Spring Basic / Hibernate Basic / REST API
 - HTML & CSS Basic
 - JUnit / Mockito
 - Postman
