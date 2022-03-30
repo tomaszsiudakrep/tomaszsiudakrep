@@ -7,6 +7,7 @@ https://github.com/tomaszsiudakrep/FridgeWebApp
 I’m currently learning 🌱 
 - Spring boot
 - Rest api
+- Vaadin
 
 Skills 🧠
 - Java 11 / JavaFX / Spring Basic / Hibernate Basic / REST API
