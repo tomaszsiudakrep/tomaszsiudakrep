@@ -2,7 +2,6 @@
 I'm Tom and programming is my passion. I like to spend my time in front of the code.
 
 I’m currently working on 🔭
-https://github.com/tomaszsiudakrep/FridgeWebApp
 
 I’m currently learning 🌱 
 - Cypress
