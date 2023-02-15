@@ -5,24 +5,25 @@ I’m currently working on 🔭
 https://github.com/tomaszsiudakrep/FridgeWebApp
 
 I’m currently learning 🌱 
-- Spring boot
-- Rest api
-- Vaadin
+- Cypress
+- Playwright
 
 Skills 🧠
-- Java 11 / JavaFX / Spring Basic / Hibernate Basic / REST API
-- HTML & CSS Basic
-- JUnit / Mockito
+- Python <3
+- pytest / unittest
+- Basic: Java 11 / JavaFX / JavaScript / Django
+- Selenium WebDriver
+- HTML & CSS
+- REST API
 - Postman
-- TDD / CI/CD
 - ISTQB Foundation Level
-- JIRA / Confluence
-- TestLink
+- JIRA / YouTrack / Confluence
+- TestLink / TestCaseLab
 - Gradle / Maven
 - MS SQL Server / MySQL Workbench
-- GIT
-- Intellij IDEA
-- Jenkins
+- GIT / GitLab CI
+- Intellij IDEA / Pycharm
+- ISTQB Foundation Level
 
 Find me around the web 🌍
 - <a href="https://www.linkedin.com/in/tomasz-siudak-339103139/">LinkedIn</a> 
