@@ -1,17 +1,11 @@
 ### Hi there 👋
 I'm Tom and programming is my passion. I like to spend my time in front of the code.
 
-I’m currently working on 🔭
-
-I’m currently learning 🌱 
-- Cypress
-- Playwright
-
 Skills 🧠
 - Python <3
 - pytest / unittest
 - Basic: Java 11 / JavaFX / JavaScript / Django
-- Selenium WebDriver
+- Selenium WebDriver, Playwright, Cypres
 - HTML & CSS
 - REST API
 - Postman
